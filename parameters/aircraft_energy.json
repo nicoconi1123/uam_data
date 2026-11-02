@@ -1,0 +1,27 @@
+{
+  "description": "Synthetic Type I and Type II aircraft parameters used in the experiments.",
+  "types": {
+    "I": {
+      "capacity": 4,
+      "battery_kwh": 180,
+      "reserve_kwh": 36,
+      "takeoff_landing_kwh": 10,
+      "cruise_kwh_per_km": 0.5178093268644449,
+      "charge_power_kw": 200,
+      "charge_efficiency": 1,
+      "energy_reference_speed_kmh": 150,
+      "cruise_slowdown_energy_fraction": 0.1
+    },
+    "II": {
+      "capacity": 8,
+      "battery_kwh": 270,
+      "reserve_kwh": 54,
+      "takeoff_landing_kwh": 15,
+      "cruise_kwh_per_km": 0.7767139902966674,
+      "charge_power_kw": 256,
+      "charge_efficiency": 1,
+      "energy_reference_speed_kmh": 150,
+      "cruise_slowdown_energy_fraction": 0.1
+    }
+  }
+}
