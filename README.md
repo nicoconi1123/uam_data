@@ -1,4 +1,4 @@
-# Multimodal air–ground scheduling benchmark
+# Multimodal UAM Data and Instance Generation
 
 Data and instance-generation code accompanying **Integrated Air–Ground Operations in Multimodal Urban Mobility: Joint Service-Chain Selection, Fleet Routing, and Scheduling**.
 
